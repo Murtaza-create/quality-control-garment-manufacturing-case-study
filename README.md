@@ -53,20 +53,13 @@ Statistical Analysis
 Root Cause Analysis
 Technical Reporting
 Team Collaboration
-Repository Contents
-README.md
-Report.pdf
-Project Images
-Quality Charts
-Supporting Data
+
 Future Improvements
 Perform real-time quality monitoring.
 Implement Six Sigma improvement projects.
 Develop automated quality dashboards.
 Integrate Statistical Process Control (SPC) software.
-Author
 
-Murtaza Haider
 
 Industrial & Manufacturing Engineering
 
